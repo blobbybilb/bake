@@ -1,3 +1,7 @@
 # bake fresh
 
+"bake" ("build") a static site from a fresh project
+
+WIP, for now it just sends a request to every specified path and saves the result
+
 Very early in dev, anything/everything may change.
